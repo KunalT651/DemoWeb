@@ -1,0 +1,10 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Font family */
+    background-color: aqua; /* Background color */
+    color: darkblue; /* Text color */
+    text-align: center; /* Align the text to the center */
+    padding: 20px; /* Add space inside the element */
+    border-radius: 10px; /* Rounded corners for the background */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    margin: 20px 0; /* Add space above and below the element */
+}
